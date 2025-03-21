@@ -1,0 +1,19 @@
+.impair{
+   background-color: rgb(231, 184, 227); 
+   font-family: Verdana, sans-serif ;
+}
+
+#one{
+    color: blue;
+    font-size: 36px;
+}
+
+#cooler{
+    font-size: 24px;
+}
+
+#another{
+    background-color: rgb(118, 224, 118);
+    font-size: 24px;
+    font-weight: bold;
+}
